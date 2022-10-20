@@ -1,0 +1,7 @@
+{
+  "name": "refall-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
